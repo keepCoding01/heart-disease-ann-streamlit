@@ -36,7 +36,7 @@ Aplikasi berbasis web untuk memprediksi probabilitas risiko penyakit jantung pad
 
 ---
 
-## 🚀 Cara Menjalankan di Lokal
+## 🔑 Cara Menjalankan di Lokal
 
 ### 1. Clone Repositori
 ```bash
